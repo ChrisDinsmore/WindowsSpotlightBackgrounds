@@ -3,7 +3,7 @@
 - Copies Spotlight lock screen images for use as backgrounds
 - Filters photos over a certain width to get images with the correct orientation
 - New images are appended to the destination folder
-- Images are placed in <<CurrentUser>>\Pictures\Backgrounds
+- Images are placed in CurrentUser\Pictures\Backgrounds
 
 ## To Run Once: 
 	1. Download both files and run the .cmd
