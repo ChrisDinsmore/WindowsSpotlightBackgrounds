@@ -1,4 +1,4 @@
-# WindowsSpotlightBackgrounds
+# Windows Spotlight Backgrounds
 
 - Copies Spotlight lock screen images for use as backgrounds
 - Filters photos over a certain width to get images with the correct orientation
