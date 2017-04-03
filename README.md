@@ -6,7 +6,7 @@
 - Images are placed in CurrentUser\Pictures\Backgrounds
 
 ## To Run Once: 
-	1. Download both files and run the .cmd
+	1. Download both files and run the .bat
 
 ## To Run every time you log in: 
 	1. Right click .cmd file
