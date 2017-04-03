@@ -1,2 +1,2 @@
 @echo off
-powershell -executionpolicy bypass -windowstyle hidden SaveWindowsSpotlightLockscreenImages.ps1
+powershell -executionpolicy bypass -windowstyle hidden ./SaveWindowsSpotlightLockscreenImages.ps1
