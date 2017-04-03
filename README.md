@@ -9,7 +9,7 @@
 	1. Download both files and run the .bat
 
 ## To Run every time you log in: 
-	1. Right click .cmd file
+	1. Right click .bat file
 	2. Select send to desktop (create shotcut)
 	3. Press Windows+R to bring up the Run dialog
 	4. Type shell:startup and press ok (the startup folder should open)
